@@ -1,0 +1,26 @@
+.container {
+  max-width: 80%;
+}
+
+::-webkit-scrollbar{width:8px;height:8px;}
+::-webkit-scrollbar-thumb{background-color:#000000 !important; border-radius:4px; cursor:pointer;}
+.quantity-input {
+  border: 1px solid rgb(188, 188, 188);
+  border-radius: 5px;
+  padding: 8px;
+  width: 46px;
+}
+img {
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+img:hover{
+  -webkit-transform: scale(1.1);
+	transform: scale(1.1);
+  
+}
+p {
+  margin-bottom: 0.5rem !important;
+}

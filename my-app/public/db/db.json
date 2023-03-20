@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung Note 10",
+        "updatedDate": "2023-02-25T15:07:49.180Z"
+      },
+      {
+        "id": 2,
+        "name": "Iphone 13 Pro maxxxxx",
+        "updatedDate": "2023-02-25T15:06:57.283Z"
+      },
+      {
+        "name": "laptop Dell XPS",
+        "size": "XXL",
+        "id": 5
+      }
+    ]
+  }

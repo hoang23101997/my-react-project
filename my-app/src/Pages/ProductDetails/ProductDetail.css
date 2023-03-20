@@ -1,0 +1,14 @@
+.tab-pane.hide {
+    display: none;
+}
+.tab-pane.active {
+    display: block;
+}
+.button.active {
+    border: none;
+    border-bottom: 1px solid black;
+}
+.button {
+    border: none;
+  
+}
